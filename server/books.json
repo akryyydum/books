@@ -1,0 +1,20 @@
+[
+  {
+    "bookid": 1,
+    "title": "fff",
+    "author": "Marc ChristNegg",
+    "year": "2091",
+    "publicationDate": "2025-04-12",
+    "condition": "New",
+    "price": "234234"
+  },
+  {
+    "bookid": 2,
+    "title": "12345",
+    "author": "erer",
+    "publisher": "sss",
+    "publicationDate": "2025-04-25",
+    "condition": "New",
+    "price": "10000"
+  }
+]
